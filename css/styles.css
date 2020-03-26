@@ -37,7 +37,8 @@ body
 
 }
 
-#rebelogo
+#container #rebelogo
 {
-    size: 70px;
+    width: 90px;
+    height: 90px;
 }
