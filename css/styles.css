@@ -47,6 +47,7 @@ body
 
 }
 
+<<<<<<< HEAD
 #post
 {
     background: white;
@@ -60,4 +61,10 @@ body
     color: white;
     text-align: center;
     padding: 0.5em;
+=======
+#container #rebelogo
+{
+    width: 90px;
+    height: 90px;
+>>>>>>> newbranch
 }
